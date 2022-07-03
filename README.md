@@ -6,7 +6,7 @@ The **travel budget tracker** is an app that utilizes offline functionality to a
 
 ## User Story
 
-As an avid traveler, I want to be able to track my withdrawals and deposits within or without a date or internet connection so that my account is accurate when I am traveling
+As an avid traveler, I want to be able to track my withdrawals and deposits within or without a date or internet connection so that my account is accurate when I am traveling.
 
 ## Acceptance Criteria
 
@@ -15,6 +15,10 @@ When the use opens the travel budget tracker without an internet connection and 
 When the user reestablishes an internet connection, the deposits or expenses added while the use was offline are added to their transaction hisotry and their totals are updated.
 
 ## Technologies Used
+
+* [MongoDB](https://www.mongodb.com/)
+* [Mongoose](https://mongoosejs.com/docs/api.html)
+* [Express](https://expressjs.com/en/api.html)
 
 ## Link to Deployed App on Heroku
 

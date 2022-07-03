@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "The **travel budget tracker** is an app that utilizes offline functionality to allow users to to input data even when there is no internet connection.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,18 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/rvacovsky/travel-budget-tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/rvacovsky/travel-budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/rvacovsky/travel-budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "mongoose": "^5.5.15",
+    "express": "^4.18.1",
+    "logger": "^0.0.1",
+    "mongoose": "^5.13.14",
     "morgan": "^1.9.1"
-  }
+  },
+  "keywords": []
 }
