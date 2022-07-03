@@ -2,7 +2,7 @@
 
 ## Description
 
-The **travel budget tracker** is an app that utilizes offline functionality to allow users to to input data even when there is no internet connection. 
+The **travel budget tracker** is an app that utilizes offline functionality to allow users to to input account data even when there is no internet connection. 
 
 ## User Story
 
@@ -22,3 +22,4 @@ When the user reestablishes an internet connection, the deposits or expenses add
 
 ## Link to Deployed App on Heroku
 
+https://budget-tracker-for-travel.herokuapp.com/
